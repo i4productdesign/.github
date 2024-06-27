@@ -5,5 +5,6 @@
 * Which Risks are addressed?
 
 * Any special instructions:
+  * Project/phase review should be billed to
   * Reading order (if important)
   * Whitespace - should whitespace be reviewed or turned off?
