@@ -1,8 +1,11 @@
 ## Give this Pull Request a meaningful title
 
 * What are the main changes covered in this Pull Request?
+  * 
 * Which Defects are addressed?
+  * 
 * Which Risks are addressed?
+  * 
 
 * Any special instructions:
   * Project/phase review should be billed to
